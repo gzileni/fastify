@@ -207,6 +207,11 @@ section.
   plugin to authenticate HTTP requests based on api key and signature
 - [`fastify-appwrite`](https://github.com/Dev-Manny/fastify-appwrite) Fastify
   Plugin for interacting with Appwrite server.
+- [fastify-aws-timestream](https://github.com/gzileni/fastify-aws-timestream) Fastify 
+  plugins to managing databases, tables and querying and creating scheduled queries with AWS Timestream
+- [fastify-aws-sns](https://github.com/gzileni/fastify-aws-sns) Fastify 
+  plugin to AWS Simple Notification Service (AWS SNS) to coordinates and manages 
+  the delivery or sending of messages to subscribing endpoints or clients
 - [`fastify-auth0-verify`](https://github.com/nearform/fastify-auth0-verify):
   Auth0 verification plugin for Fastify, internally uses
   [fastify-jwt](https://npm.im/fastify-jwt) and
